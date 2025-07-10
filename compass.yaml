@@ -1,0 +1,17 @@
+name: compass-demo-repo-backend
+slug: myproject
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: ari:cloud:identity::team/0b56fdaa-37e2-487e-b770-b271bb4e76a2
+fields:
+  tier: 4
+  isMonorepoProject: false
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/cze-dk/compass-demo-repo-backend'
+relationships: {}
+labels:
+  - 'source:github'
+customFields: null
